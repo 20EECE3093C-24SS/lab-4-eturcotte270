@@ -4,3 +4,4 @@
 [![doc generation](https://github.com/20EECE3093C-24SS/lab-4-eturcotte270/actions/workflows/ci-sphinx.yaml/badge.svg?event=push)](https://github.com/eturcotte270/lab-4-eturcotte270/actions/workflows/ci-sphinx.yaml)
 
 Please see the course website for the lab 4 [instructions](https://20eece3093c-24ss.github.io/graded_artifacts/lab_assignments/lab_4.html).
+S
